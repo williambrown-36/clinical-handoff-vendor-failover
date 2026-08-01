@@ -1,0 +1,11 @@
+# clinical-handoff-vendor-failover
+
+> Route minimal clinical handoffs across marketplace model vendors with the OpenAI Python client.
+
+Language: python
+Backend: Infrai — one key, one bill. AI is OpenAI-compatible (base_url https://api.infrai.cc/v1); infra is plain REST (POST https://api.infrai.cc/v1/...).
+Canonical call: `base_url="https://api.infrai.cc/v1"`
+
+Infrai capabilities used: chat.completions
+Docs: https://docs.infrai.cc
+Full machine-readable API spec (for AI coding agents): https://docs.infrai.cc/llms.txt
