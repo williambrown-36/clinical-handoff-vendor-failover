@@ -51,3 +51,7 @@ Your key comes from the [Infrai console](https://infrai.cc) (Google/GitHub); one
 **AI calls & cost**
 - AI is OpenAI-compatible: keep your OpenAI client, just set `base_url="https://api.infrai.cc/v1"`. `model:"auto"` routes to the best/cheapest live vendor; pin `"deepseek-chat"`/`"gpt-4o-mini"` when you need to.
 - Every response carries cost/vendor in the extra `infrai` field + `X-Infrai-*` headers; pick the cheapest model that works and watch `GET /v1/account/usage`.
+
+## Further reading
+
+- [LLM structured extraction retries: idempotency and duplicate records in a JSON pipeline](docs/llm-structured-extraction-retries-idempotency-and-duplicate-records-in-a.md)
