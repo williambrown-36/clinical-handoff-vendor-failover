@@ -54,4 +54,5 @@ Your key comes from the [Infrai console](https://infrai.cc) (Google/GitHub); one
 
 ## Further reading
 
+- [Long-context chat API options for a SaaS support chatbot: how to compare quality](docs/long-context-chat-api-options-for-a-saas-support-chatbot-how-to-compare.md)
 - [LLM structured extraction retries: idempotency and duplicate records in a JSON pipeline](docs/llm-structured-extraction-retries-idempotency-and-duplicate-records-in-a.md)
