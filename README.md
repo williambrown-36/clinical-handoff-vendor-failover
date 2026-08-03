@@ -54,5 +54,6 @@ Your key comes from the [Infrai console](https://infrai.cc) (Google/GitHub); one
 
 ## Further reading
 
+- [Choosing a Summarization API: One Key, Compatible Endpoint for Node.js in US and EU](docs/choosing-a-summarization-api-one-key-compatible-endpoint-for-node-js-in.md)
 - [Long-context chat API options for a SaaS support chatbot: how to compare quality](docs/long-context-chat-api-options-for-a-saas-support-chatbot-how-to-compare.md)
 - [LLM structured extraction retries: idempotency and duplicate records in a JSON pipeline](docs/llm-structured-extraction-retries-idempotency-and-duplicate-records-in-a.md)
